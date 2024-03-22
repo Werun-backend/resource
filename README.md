@@ -8,3 +8,5 @@
 - Xiangyinfly 22-陈文韬
 - cloak-one 22-王浩阳
 - SSStarain 22-王豪
+- VanSherry 23-张拓凡
+- coldco 23-李洋

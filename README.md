@@ -13,6 +13,7 @@
 - Xiangyinfly 22-陈文韬
 - cloak-one 22-王浩阳
 - SSStarain 22-王豪
+- Lubiyangka 22-贺麟荃
 
 ### 23级
 

@@ -14,6 +14,7 @@
 - cloak-one 22-王浩阳
 - SSStarain 22-王豪
 - Lubiyangka 22-贺麟荃
+- Eterblue 22-郑帅蕾
 
 ### 23级
 
@@ -23,6 +24,6 @@
 - asdrfdc 23-郭征明
 - YCP991 (ChampionYoung) 23-杨朝平
 - qiuxiaotianqing 23-孙志宏
-- Kevin-XF
-- leisuredream
-- WBb888888
+- Kevin-XF 
+- leisuredream 
+- WBb888888 

@@ -2,6 +2,14 @@
 
 ## 项目成员Github备注
 
+### 毕业生与硕士生
+
+- 
+
+### 20级
+
+- 
+
 ### 21级
 
 - bearslyricattack 21-魏鹏宇
@@ -15,6 +23,8 @@
 - SSStarain 22-王豪
 - Lubiyangka 22-贺麟荃
 - Eterblue 22-郑帅蕾
+- WBb888888 22-吴光波
+- Kevin-XF 22-许浩林
 
 ### 23级
 
@@ -24,6 +34,5 @@
 - asdrfdc 23-郭征明
 - YCP991 (ChampionYoung) 23-杨朝平
 - qiuxiaotianqing 23-孙志宏
-- Kevin-XF 
-- leisuredream 
-- WBb888888 
+- leisuredream 23-陈子涵
+

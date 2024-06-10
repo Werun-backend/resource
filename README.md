@@ -4,15 +4,16 @@
 
 ### 毕业生与硕士生
 
-- 
+- SpaceZore 22S-王衍淞
 
 ### 20级
 
-- 
+- xueminlu 20-鲁学敏
 
 ### 21级
 
 - bearslyricattack 21-魏鹏宇
+- Azusaaaaaaaa 21-王梓
 - Shiokiri 21-刘梓竣
 
 ### 22级
@@ -26,6 +27,8 @@
 - Eterblue 22-郑帅蕾
 - WBb888888 22-吴光波
 - Kevin-XF 22-许浩林
+- 918822019 22-王泽宇
+- STEABEN 22-张百川
 
 ### 23级
 

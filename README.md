@@ -5,10 +5,9 @@
 ### 毕业生与硕士生
 
 - SpaceZore 22S-王衍淞
-
-### 20级
-
+- pupilji 19-靳博凯
 - xueminlu 20-鲁学敏
+- luoshieryi 20-冯浩泽
 
 ### 21级
 
@@ -29,6 +28,8 @@
 - Kevin-XF 22-许浩林
 - 918822019 22-王泽宇
 - STEABEN 22-张百川
+- ysmgithub123 22-于申明
+- Tiansanchuan 22-田三川
 
 ### 23级
 

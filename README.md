@@ -14,6 +14,7 @@
 - bearslyricattack (抒情熊) 21-魏鹏宇
 - Azusaaaaaaaa 21-王梓
 - Shiokiri 21-刘梓竣
+- cuwecue (飞鱼在天) 21-戴易萍
 
 ### 22级
 

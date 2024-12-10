@@ -1,3 +1,47 @@
+## 技术分享目录（正在补充中）
+
+### Java 语言
+
+> 如 Java 基础、集合、反射、代理、并发、应用等
+
+- [理解AOP：概念、原理及Spring应用实践](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E4%BA%8E%E7%94%B3%E6%98%8E/AOP.docx) by 22-于申明
+
+### Go 语言
+
+> 如 Go 基础应用等
+
+### 数据库、中间件等服务
+
+> 如 MySQL、Redis、ES、MongoDB、RocketMQ 等
+
+- [NoSQL数据库概览](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%AD%99%E5%AD%90%E8%B1%AA/NoSQL.md) by 21-孙子豪
+- [Redis应用版](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E6%A2%93/Redis%E5%BA%94%E7%94%A8%E7%89%88.md) by 21-王梓
+
+### 开发工具
+
+> 如 Maven、Git、Docker、IDEA等
+
+- [Gradle+Jpa学习笔记](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%B4%BA%E9%BA%9F%E8%8D%83/Gradle%2BJpa%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md) by 22-贺麟荃
+
+### 常用框架
+
+> 与语言集成的框架，如 Spring&Springboot、Mybatis、Gorm、定时任务框架、爬虫框架等
+
+- [浅析Spring框架设计与应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%AD%8F%E9%B9%8F%E5%AE%87/%E6%B5%85%E6%9E%90Spring%2C%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8.pdf) by 21-魏鹏宇
+- [Gradle+Jpa学习笔记](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%B4%BA%E9%BA%9F%E8%8D%83/Gradle%2BJpa%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md) by 22-贺麟荃
+
+### 系统设计
+
+> 如软件工程、系统设计、认证授权、设计模式、DevOps等
+
+- [OAuth2.0客户端学习](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/OAuth2.md) by 22-张沣睿
+
+### 微服务与分布式
+
+> 如分布式理论与算法、微服务、分布式锁、分布式事务等
+
+- [进程间通信技术与微服务架构实践指南](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%88%98%E6%A2%93%E7%AB%A3/notion%E9%93%BE%E6%8E%A5.md) by 21-刘梓竣
+
 ## 实验室项目成员 GitHub 备注
 
 ### 毕业生与硕士生

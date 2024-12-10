@@ -33,6 +33,7 @@
 > 如 Maven、Git、Docker、K8s、IDEA、DevOps等
 
 - [Gradle+Jpa学习笔记](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%B4%BA%E9%BA%9F%E8%8D%83/Gradle%2BJpa%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md) by 22-贺麟荃
+- [Kubernetes 初探实践：项目部署的最后一站](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/Kubernetes%20%E5%88%9D%E6%8E%A2%E5%AE%9E%E8%B7%B5%EF%BC%9A%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E7%AB%99.md) by 22-张沣睿
 
 ### 常用框架
 

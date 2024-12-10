@@ -61,6 +61,7 @@
 ### 毕业生与硕士生
 
 - **22S-王衍淞**: [SpaceZore (Ridiculous)](https://github.com/SpaceZore)
+- **23S-张睿**: [97code](https://github.com/97code)
 - **19-靳博凯**: [pupilji](https://github.com/pupilji)
 - **20-鲁学敏**: [xueminlu](https://github.com/xueminlu)
 - **20-冯浩泽**: [luoshieryi](https://github.com/luoshieryi)

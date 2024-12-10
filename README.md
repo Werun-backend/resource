@@ -53,12 +53,8 @@
 
 - [进程间通信技术与微服务架构实践指南](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%88%98%E6%A2%93%E7%AB%A3/notion%E9%93%BE%E6%8E%A5.md) by 21-刘梓竣
 
-## 学习资源推荐（正在补充中）
+## 就业面试经验分享（待补充）
 
-> 主要面向就业面试等
-
-- [JavaGuide](https://javaguide.cn/) :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-- [小林Coding](https://xiaolincoding.com/)：图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
 
 ## 实验室项目成员 GitHub 备注
 

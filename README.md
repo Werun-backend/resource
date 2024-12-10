@@ -16,6 +16,7 @@
 > 如 Java 基础、集合、反射、代理、并发、应用等
 
 - [理解AOP：概念、原理及Spring应用实践](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E4%BA%8E%E7%94%B3%E6%98%8E/AOP.docx) by 22-于申明
+- [函数式接口](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%88%98%E5%85%89%E6%BA%90/FunctionalInterface.md) 23-刘光源
 
 ### Go 语言
 

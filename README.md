@@ -21,6 +21,7 @@
 ### Go 语言
 
 > 如 Go 基础应用等
+- [redis在go中的应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%9B%BD%E6%99%B0%E5%B0%A7/redis%E5%9C%A8go%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) by 23-国晰尧
 
 ### 数据库、中间件等服务
 

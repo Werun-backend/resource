@@ -21,6 +21,7 @@
 ### Go 语言
 
 > 如 Go 基础应用等
+
 - [redis在go中的应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%9B%BD%E6%99%B0%E5%B0%A7/redis%E5%9C%A8go%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) by 23-国晰尧
 
 ### 数据库、中间件等服务
@@ -31,9 +32,9 @@
 - [Redis应用版](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E6%A2%93/Redis%E5%BA%94%E7%94%A8%E7%89%88.md) by 21-王梓
 - [redis在go中的应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%9B%BD%E6%99%B0%E5%B0%A7/redis%E5%9C%A8go%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) by 23-国晰尧
 
-### 开发工具
+### 开发工具（以及云原生工具）
 
-> 如 Maven、Git、Docker、K8s、IDEA、DevOps等
+> 如 Maven、Git、IDEA、Docker、K8s、DevOps等
 
 - [Gradle+Jpa学习笔记](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%B4%BA%E9%BA%9F%E8%8D%83/Gradle%2BJpa%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md) by 22-贺麟荃
 - [Kubernetes 初探实践：项目部署的最后一站](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/Kubernetes%20%E5%88%9D%E6%8E%A2%E5%AE%9E%E8%B7%B5%EF%BC%9A%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E7%AB%99.md) by 22-张沣睿
@@ -50,6 +51,7 @@
 > 如软件工程、系统设计、认证授权、设计模式等
 
 - [OAuth2.0客户端学习](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/OAuth2.md) by 22-张沣睿
+- [Springboot中接口防抖设计](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E5%AD%90%E9%9D%92/N7-SpringBoot%E6%8E%A5%E5%8F%A3%E9%98%B2%E6%8A%96.pdf) by 23-王子青
 
 ### 微服务与分布式
 

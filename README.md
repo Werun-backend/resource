@@ -23,6 +23,7 @@
 > 如 Go 基础应用等
 
 - [Redis在Go中的应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%9B%BD%E6%99%B0%E5%B0%A7/redis%E5%9C%A8go%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) by 23-国晰尧
+- [urfave/cli用Go构建命令行工具](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%AE%8B%E4%B8%80%E5%87%A1/go-cli%E6%9E%84%E5%BB%BA%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7.md) by 23-宋一凡
 
 ### 数据库、中间件等服务
 

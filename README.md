@@ -17,6 +17,7 @@
 
 - [理解AOP：概念、原理及Spring应用实践](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E4%BA%8E%E7%94%B3%E6%98%8E/AOP.docx) by 22-于申明
 - [函数式接口和 Lambda 表达式](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%88%98%E5%85%89%E6%BA%90/FunctionalInterface.md) 23-刘光源
+- [Java 并发编程入门](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E7%89%9F%E5%BF%97%E9%B9%8F/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8.md) by 23-牟志鹏
 
 ### Go 语言
 

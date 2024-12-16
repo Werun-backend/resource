@@ -60,6 +60,7 @@
 > 如分布式理论与算法、微服务、分布式锁、分布式事务等
 
 - [进程间通信技术与微服务架构实践指南](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%88%98%E6%A2%93%E7%AB%A3/notion%E9%93%BE%E6%8E%A5.md) by 21-刘梓竣
+- [微服务简介、熔断（Golang实现）、CAP理论](https://github.com/Werun-backend/resource/tree/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E7%8E%8B%E9%9F%B5%E5%8D%9A) by 22-王韵博
 
 ## 就业面试经验分享（待补充）
 

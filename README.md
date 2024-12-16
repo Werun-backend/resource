@@ -85,6 +85,7 @@
 
 - **22-张沣睿**: [Donnie518 (扎西拉姆Donnie)](https://github.com/Donnie518)
 - **22-刘硕**: [LSALMOST](https://github.com/LSALMOST)
+- **22-王韵博** [Wangyunbo-wyb](https://github.com/Wangyunbo-wyb)
 - **22-陈文韬**: [Xiangyinfly (沙丁鱼)](https://github.com/Xiangyinfly)
 - **22-王浩阳**: [cloak-one](https://github.com/cloak-one)
 - **22-王豪**: [SSStarain](https://github.com/SSStarain)

@@ -11,8 +11,8 @@
 AOP & 反射 & 代理
 
 - [理解AOP：概念、原理及Spring应用实践](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E4%BA%8E%E7%94%B3%E6%98%8E/AOP.docx) by 22-于申明
-- [反射与代理](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%88%98%E7%A1%95/%E5%8F%8D%E5%B0%84%E4%B8%8E%E4%BB%A3%E7%90%86.pdf) by 22-刘硕
-- [AOP & 动态代理](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%91%A3%E7%82%9C%E6%96%87/AOP%26%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86.md) by 23-董炜文
+- [反射与JDK动态代理](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%88%98%E7%A1%95/%E5%8F%8D%E5%B0%84%E4%B8%8E%E4%BB%A3%E7%90%86.pdf) by 22-刘硕
+- [AOP原理：JDK & cglib动态代理](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%91%A3%E7%82%9C%E6%96%87/AOP%26%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86.md) by 23-董炜文
 
 JUC
 

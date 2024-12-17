@@ -1,12 +1,12 @@
 # 函数式接口
 
-1. ## 概念
+## 1. 概念
 
 *函数式接口(Functional Interface)就是一个有且仅有一个抽象方法，但是可以有多个非抽象方法的接口。*
 *函数式接口可以被隐式转换为 lambda 表达式。*
 *Lambda 表达式和方法引用（实际上也可认为是* *Lambda表达式* *）上。*
 
-2. ## @FunctionalInterface
+## 2. @FunctionalInterface
 
 ![](https://scnek46ixq9t.feishu.cn/space/api/box/stream/download/asynccode/?code=NDY3OTA5M2JmZTRkZjQ5ZTVkMjM2ZjhhMDE1NzMyOTVfZFJIajk0SlVxSU9VT2RuTkZ5UjJUdmtGWHllbGg0d3FfVG9rZW46UDdkRWJzVlJybzZnMVJ4UnRLcmNsd0tsbkM2XzE3MzM4Mzc5OTA6MTczMzg0MTU5MF9WNA)
 
@@ -16,7 +16,7 @@
 
 这里当你写了第二个方法时，编译就无法通过，idea甚至在编码阶段就行了提示。
 
-3. ## 函数式接口的使用方式
+## 3. 函数式接口的使用方式
 
 首先我们自定义一个函数式接口如下：
 
@@ -109,7 +109,7 @@ new Thread(()->{
 
 ![](https://scnek46ixq9t.feishu.cn/space/api/box/stream/download/asynccode/?code=OTk1YTQzZDQzNmUzODBiMTg4ZGMwMzU2MDEzYjU3MGVfVXRCVDZHbnVYQjFmQjZqVHBabnRBVklnSU5hbThUdW9fVG9rZW46UnJRa2JGcWhIbzFTdkV4NTB2TmNKT3JobktmXzE3MzM4Mzc5OTA6MTczMzg0MTU5MF9WNA)
 
-1. ## Supplier
+## 1. Supplier
 
 **Supplier< T >：包含一个无参的方法**
 
@@ -135,7 +135,7 @@ Food food3 = Optional.ofNullable(food).orElseGet(Food::new);
 
 需要注意的是，我每调用一次get方法，都会重新创建一个对象。orElseGet方法入参同样也是Supplier，这里对food实例进行判断，通过Supplier实现了懒加载，也就是说只有当判断food为null时，才会通过orElseGet方法创建新的对象并且返回。不得不说这个设计是非常的巧妙。
 
-2. ## Consumer
+## 2. Consumer
 
 **Consumer< T >：包含两个方法**
 
@@ -194,7 +194,7 @@ Supplier<Food> supplier1 = ()-> new Food("ld",33d,1700d);
         combined.accept(5);
 ```
 
-3. ## Predicate
+## 3. Predicate
 
 **Predicate< T >：常用的四个方法**
 
@@ -277,7 +277,7 @@ Predicate<Food> greaterThan30 = (Food g)-> g.getSize()>=30d;
 list1.stream().filter(greaterThan30d).forEach(System.out::println);
 ```
 
-4. ## Function
+## 4. Function
 
 **Runction<T,R>：常用的两个方法**
 

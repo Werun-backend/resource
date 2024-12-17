@@ -67,12 +67,18 @@ Redis 与 NoSQL
 
 > 与语言集成的框架，如 Spring&Springboot、Mybatis、Gorm、定时任务框架、爬虫框架等
 
-Spring 系列
+Spring 原理
 
 - [浅析Spring框架设计与应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%AD%8F%E9%B9%8F%E5%AE%87/%E6%B5%85%E6%9E%90Spring%2C%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8.pdf) by 21-魏鹏宇
-- [SpringBoot日志系统](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E6%B5%A9%E9%98%B3/SpringBoot%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F.pdf) by 22-王浩阳
-- [SpringTask](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E6%9D%8E%E6%B4%8B/springTask.pdf) by 23-李洋
+- [理解AOP：概念、原理及Spring应用实践](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E4%BA%8E%E7%94%B3%E6%98%8E/AOP.docx) by 22-于申明
 - [MiniSpring-loC](https://github.com/Werun-backend/resource/tree/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%9D%8E%E5%AD%90%E8%B1%AA/MiniSpring-IoC) by 23-李子豪
+
+Spring 系列
+
+- [SpringBoot日志系统](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E6%B5%A9%E9%98%B3/SpringBoot%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F.pdf) by 22-王浩阳
+- [SpringTask定时任务](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E6%9D%8E%E6%B4%8B/springTask.pdf) by 23-李洋
+- [Spring Validation参数校验](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%83%AD%E5%BE%81%E6%98%8E/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md) by 23-郭征明
+
 
 其他
 
@@ -85,7 +91,6 @@ Spring 系列
 > 如软件工程、系统设计、认证授权、设计模式等
 
 - [OAuth2.0客户端学习](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/OAuth2.md) by 22-张沣睿
-- [参数校验](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%83%AD%E5%BE%81%E6%98%8E/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md) by 23-郭征明
 - [接口防抖设计](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E5%AD%90%E9%9D%92/N7-SpringBoot%E6%8E%A5%E5%8F%A3%E9%98%B2%E6%8A%96.pdf) by 23-王子青
 - [ERP定时任务&多线程管理](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%9D%8E%E6%B4%8B/ERP%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86.pdf) by 23-李洋
 

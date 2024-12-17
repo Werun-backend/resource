@@ -84,7 +84,7 @@ Spring 系列
 
 - [Gradle+Jpa学习笔记](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E8%B4%BA%E9%BA%9F%E8%8D%83/Gradle%2BJpa%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md) by 22-贺麟荃
 - [Flask](https://github.com/Werun-backend/resource/tree/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%BC%A0%E7%99%BE%E5%B7%9D) by 22-张百川
-- [Java爬虫](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%AE%B7%E6%B5%A9%E7%84%B6/JAVA%E7%88%AC%E8%99%AByinhao.md) by 23-殷浩然
+- [JSOUP爬虫](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%AE%B7%E6%B5%A9%E7%84%B6/JAVA%E7%88%AC%E8%99%AByinhao.md) by 23-殷浩然
 
 ### 系统设计
 

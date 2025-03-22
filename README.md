@@ -45,6 +45,10 @@ Redis 与 NoSQL
 - [Redis深度解析与高效数据处理实战](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E7%8E%8B%E8%B1%AA/%E4%BE%8B%E4%BC%9Aredis.docx) by 22-王豪
 - [Redis在Go中的应用](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%9B%BD%E6%99%B0%E5%B0%A7/redis%E5%9C%A8go%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md) by 23-国晰尧
 
+MySQL
+
+-[MySQL索引](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E6%98%A5%E5%AD%A3/%E9%BB%84%E6%B9%98%E6%B9%98/%E7%B4%A2%E5%BC%95-%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md) by24-黄湘湘
+
 其他
 
 - [sql基础与拓展](https://github.com/Werun-backend/resource/blob/75b8dbbfabd6d1ba629ab3c4fa19a5c9b894f3f4/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2023%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BD%AD%E7%99%BB%E4%BA%91/sql%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%8B%93%E5%B1%95.pptx) by 21-彭登云

@@ -47,7 +47,7 @@ Redis 与 NoSQL
 
 MySQL
 
--[MySQL索引](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E6%98%A5%E5%AD%A3/%E9%BB%84%E6%B9%98%E6%B9%98/%E7%B4%A2%E5%BC%95-%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md) by24-黄湘湘
+- [MySQL索引](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E6%98%A5%E5%AD%A3/%E9%BB%84%E6%B9%98%E6%B9%98/%E7%B4%A2%E5%BC%95-%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md) by 24-黄湘湘
 
 其他
 

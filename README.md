@@ -25,7 +25,7 @@ JUC
 - [Java 自定义注解](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%AD%99%E5%BF%97%E5%AE%8F/java%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3.pdf) by 23-孙志宏
 - [函数式接口和 Lambda 表达式](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E5%88%98%E5%85%89%E6%BA%90/FunctionalInterface.md) by 23-刘光源
 - [Java 爬虫](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%AE%B7%E6%B5%A9%E7%84%B6/JAVA%E7%88%AC%E8%99%AByinhao.md) by 23-殷浩然
-- [Maven 详解](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%9D%8E%E6%B4%8B/ERP%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86.pdf) by 24-宋硕
+- [Maven 详解](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%AE%8B%E7%A1%95/Maven%E8%AF%A6%E8%A7%A3%20%20%20%20%20.pdf) by 24-宋硕
 
 
 ### Go 语言

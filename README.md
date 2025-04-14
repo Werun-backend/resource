@@ -84,7 +84,10 @@ Spring 系列
 - [SpringBoot日志系统](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E6%B5%A9%E9%98%B3/SpringBoot%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F.pdf) by 22-王浩阳
 - [SpringTask定时任务](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E6%9D%8E%E6%B4%8B/springTask.pdf) by 23-李洋
 - [Spring Validation参数校验](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%83%AD%E5%BE%81%E6%98%8E/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md) by 23-郭征明
+- [SpringBoot注解](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%99%88%E5%AD%90%E4%BF%A1/SpringBoot%E6%B3%A8%E8%A7%A3.md) by 24-陈子信
 
+GORM
+- [GORM 最佳实践与常见问题指南：从基础优化到高级技巧](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%A7%9C%E9%91%AB%E6%B6%A6/GORM%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BB%8E%E5%9F%BA%E7%A1%80%E4%BC%98%E5%8C%96%E5%88%B0%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7.pdf) by 23-姜鑫润
 
 其他
 

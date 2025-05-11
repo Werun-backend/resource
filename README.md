@@ -20,6 +20,11 @@ JUC
 - [Java 并发编程入门](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E7%89%9F%E5%BF%97%E9%B9%8F/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8.md) by 23-牟志鹏
 - [ERP定时任务&多线程管理](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%9D%8E%E6%B4%8B/ERP%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86.pdf) by 23-李洋
 
+Java工具类库
+
+- [Hutool 工具类](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E9%A9%AC%E8%89%BA%E8%90%8C/Hutool%20%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB/Hutool%20%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB.md) by 24-马艺萌
+  
+
 其他
 
 - [Java 自定义注解](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%AD%99%E5%BF%97%E5%AE%8F/java%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3.pdf) by 23-孙志宏
@@ -68,6 +73,7 @@ MySQL
 - [如何配置Jenkins实现自动化部署](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E6%9D%A8%E6%9C%9D%E5%B9%B3/%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%20Jenkins%20%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2.md) by 23-杨朝平
 - [利用IDEA和github将springboot项目远程部署到服务器上](https://github.com/Werun-backend/resource/blob/1783351d739458ae5b00a8303bd1395eb0e9e7dc/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E6%8B%93%E5%87%A1/conference.pdf) by 23-张拓凡
 - [CS61B Java数据结构Lab2-Gitlet](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E9%87%91%E5%AD%90%E5%8D%9A/gitlet.md) by 23-金子博
+- [docker入门](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E7%82%B3%E5%A5%95/docker%E5%85%A5%E9%97%A8.md) by 23-张炳奕
 
 ### 常用框架
 
@@ -102,6 +108,7 @@ GORM
 - [OAuth2.0客户端学习](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E5%BC%A0%E6%B2%A3%E7%9D%BF/OAuth2.md) by 22-张沣睿
 - [接口防抖设计](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E6%98%A5%E5%AD%A3/%E7%8E%8B%E5%AD%90%E9%9D%92/N7-SpringBoot%E6%8E%A5%E5%8F%A3%E9%98%B2%E6%8A%96.pdf) by 23-王子青
 - [ERP定时任务&多线程管理](https://github.com/Werun-backend/resource/blob/79d24cc1473235096a41f8844866f18d29469f8a/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2024%E5%B9%B4%E7%A7%8B%E5%AD%A3/%E6%9D%8E%E6%B4%8B/ERP%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86.pdf) by 23-李洋
+- [基于SpringSecurity6的Oauth2.0服务端配置](https://github.com/Werun-backend/resource/blob/main/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2025%E5%B9%B4%E6%98%A5%E5%AD%A3/%E8%B5%B5%E4%BB%81%E6%9D%B0/%E5%9F%BA%E4%BA%8ESpringSecurity6%E7%9A%84Oauth2.0%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE.md) by 24-赵仁杰
 
 ### 微服务与分布式
 

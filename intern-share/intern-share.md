@@ -14,3 +14,5 @@
 - [如何准备第一段开发岗实习（2）](https://vwvt19hb5q9.feishu.cn/wiki/LQ3lwU321il9h5kLfWicmVdTnmb?from=from_copylink)
 
 ## 2023 年 12 月
+
+- [如何速通实习](https://github.com/Werun-backend/resource/blob/main/intern-share/intern-share-202312.md)

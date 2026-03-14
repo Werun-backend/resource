@@ -1,6 +1,6 @@
 # 本科后端实习就业分享（Java/Go）
 
-主要面向大二、大三同学介绍实习就业的相关信息
+主要面向大二、大三、大四同学介绍实习就业及入职后职业发展的相关信息
 
 ## 2024 年 12 月
 
@@ -16,3 +16,7 @@
 ## 2023 年 12 月
 
 - [如何速通实习](https://github.com/Werun-backend/resource/blob/main/intern-share/intern-share-202312.md)
+
+## 入职后
+
+- [后端工程师副业指南](https://github.com/Werun-backend/resource/blob/main/intern-share/side-business.md)
